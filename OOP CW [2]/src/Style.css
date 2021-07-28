@@ -1,0 +1,11 @@
+.root{
+    -fx-background-color: #00B4D8;
+}
+
+.table-view .table-cell{
+    -fx-alignment: center;
+}
+
+.button{
+    -fx-background-color: #90E0EF;
+}
